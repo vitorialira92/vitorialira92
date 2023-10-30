@@ -6,11 +6,11 @@
 
 ## 🔭 Table of Contents
 
-- [My projects](#my-projects)
-- [Programming Languages and Frameworks](#programming-languages-and-frameworks)
-- [Database](#database)
-- [Design](#design)
-- [Top Languages](#top-languages)
+- [My projects](#-my-projects)
+- [Programming Languages and Frameworks](#-programming-languages-and-frameworks)
+- [Database](#-database)
+- [Design](#-design)
+- [Top Languages](#-top-languages)
 <br>
 
 ## 🌱 My Projects
