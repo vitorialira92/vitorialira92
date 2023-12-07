@@ -3,7 +3,11 @@
 <p>My name is Vitória and I am a Computer Engineering student at UFSCar. Currently, I am working my way through building a portfolio in back-end programming and UX/UI :)<br>Make sure to check my projects!
 </p>
 <br>
-
+<div>
+  <img src="https://badges.strrl.dev/prs/monthly/vitorialira92?color=purple" alt="PRsThisMonth">
+  <img src="https://badges.strrl.dev/repos/vitorialira92?color=purple" alt="Repos">
+  <img src="https://badges.strrl.dev/years/vitorialira92?color=purple" alt="Years">
+</div>
 ## 🔭 Table of Contents
 
 - [My projects](#-my-projects)
