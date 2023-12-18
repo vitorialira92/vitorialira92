@@ -8,6 +8,7 @@
   <img src="https://badges.strrl.dev/repos/vitorialira92?color=purple" alt="Repos">
   <img src="https://badges.strrl.dev/years/vitorialira92?color=purple" alt="Years">
 </div>
+
 ## 🔭 Table of Contents
 
 - [My projects](#-my-projects)
