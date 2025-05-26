@@ -1,6 +1,6 @@
 ### <h1> Hi there 👋 </h1>
 
-<p>My name is Vitória and I am a Computer Engineering student at UFSCar. Currently, I am working my way through building a portfolio in back-end programming and UX/UI :)<br>Make sure to check my projects!
+<p>My name is Vitória and I am a Computer Science student at UFSCar. Currently, I am a Software Engineering Intern @ Amazon. :)<br>Make sure to check my projects!
 </p>
 <br>
 <div>
